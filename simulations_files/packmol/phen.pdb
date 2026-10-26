@@ -1,0 +1,9 @@
+TITLE     PHEN single molecule for Martini 3
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   20.000   20.000   20.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  O1  PHEN    1       0.000   0.000   0.000  1.00  0.00            
+ATOM      2  R2  PHEN    1       2.850   0.000   0.000  1.00  0.00            
+ATOM      3  R3  PHEN    1       1.420   2.580   0.000  1.00  0.00            
+TER
+ENDMDL

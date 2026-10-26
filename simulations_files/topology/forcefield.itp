@@ -1,0 +1,15 @@
+
+#include "martini_v3.0.0.itp"
+#include "martini_v3.0.0_solvents_v1.itp"
+#include "martini_v3.0.0_small_molecules_v1.itp"
+#include "martini_v3.0.0_ions_v1.itp"
+#include "martini_v3.0.0_phospholipids_v1.itp"
+[ system ]
+membrane_mix
+
+[ molecules ]
+SDS  200
+PHEN 4000
+W    56019
+NA   200
+POPC 722

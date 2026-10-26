@@ -1,0 +1,13 @@
+integrator  = steep
+nstcgsteep  = 5
+define      = -DFLEXIBLE
+emtol       = 10
+emstep      = 0.01
+nsteps      = 200
+nstlist         = 1
+cutoff-scheme   = Verlet
+ns_type         = grid
+coulombtype     = PME
+rcoulomb        = 1
+rvdw            = 1
+pbc             = xyz

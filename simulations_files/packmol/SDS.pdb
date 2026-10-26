@@ -1,0 +1,10 @@
+TITLE     Water_SDS
+REMARK    THIS IS A SIMULATION BOX
+CRYST1  100.000  100.000  100.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  S1  SDS     1      46.020  50.000  50.000  1.00  0.00            
+ATOM      2  C1  SDS     1      48.160  50.000  50.000  1.00  0.00            
+ATOM      3  C2  SDS     1      50.890  50.000  50.000  1.00  0.00            
+ATOM      4  C3  SDS     1      54.920  50.000  50.000  1.00  0.00            
+TER
+ENDMDL
